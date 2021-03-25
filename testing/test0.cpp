@@ -4,7 +4,7 @@ using namespace std;
 
 int main() {
     
-    cout << "Henlo" << endl;
+    cout << "Henlo boiz" << endl;
 
     return 0;
 }
